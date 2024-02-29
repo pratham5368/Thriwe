@@ -15,7 +15,7 @@ const Four = () => {
           Only then can we create a meaingful <br />
           conversation that ultimately leads to the goal. <br />
           <br />
-          THRIWE
+          Pratham
       </h2>
       <div className="agency"></div>
       <div className="agen">

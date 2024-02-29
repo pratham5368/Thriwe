@@ -8,7 +8,7 @@ const Home = () => {
   const date = `${current.getDate()}/${current.getMonth()+1}/${current.getFullYear()}`;
   return <div className="h">
         <div className="h-main">
-        <div className="logo"><img src="https://assets.thriwe.com/thriwe_website_main/img/logo.png" alt=""/></div>
+        <div className="logo"><img src="log.png" alt=""/></div>
         <nav className="nav-links">
           <a href="#" class="Button">Work</a>
           <a href="#" class="Button">Blog</a>
@@ -25,9 +25,7 @@ const Home = () => {
         <a href="#" class="Button-view">View Manifesto</a>
         </div>
         <div className="date">{date}</div>
-        {/*<div className="company">
-          <img src={B} alt="pr" className="ck" />
-</div>*/}
+        
         <video loop muted autoPlay className="backdrop">
         <source
           src={A}
