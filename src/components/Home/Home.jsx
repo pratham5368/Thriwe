@@ -8,7 +8,7 @@ const Home = () => {
   const date = `${current.getDate()}/${current.getMonth()+1}/${current.getFullYear()}`;
   return <div className="h">
         <div className="h-main">
-        <div className="logo"><img src="log.png" alt=""/></div>
+        <div className="logo"><img src="universe-high-resolution-logo-black-transparent.svg" alt=""/></div>
         <nav className="nav-links">
           <a href="#" class="Button">Work</a>
           <a href="#" class="Button">Blog</a>
