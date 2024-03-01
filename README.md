@@ -1,2 +1,1 @@
-
-![Scrrenshot](./src/components/img/screenshot.png)
+## A basic animation website
