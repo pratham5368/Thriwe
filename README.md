@@ -1,3 +1,3 @@
 ## A basic animation website
 
-![](Screenshot (52).png)
+![](./Screenshot%20(52).png)
